@@ -12,7 +12,3 @@ services:
           type: web
           name: voice-meeting-assistant
           property: port
-    disk:
-      name: meetings-data
-      mountPath: /app/meetings
-      sizeGB: 1
