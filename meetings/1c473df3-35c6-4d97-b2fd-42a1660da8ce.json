@@ -1,0 +1,13 @@
+{
+  "id": "1c473df3-35c6-4d97-b2fd-42a1660da8ce",
+  "title": "Meeting - 2025-10-18 14:53",
+  "timestamp": "2025-10-18T14:53:08.820299",
+  "transcript": "Demo transcript: Meeting discussion about project updates and next steps. (Error: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}})",
+  "summary": "Demo transcript: Meeting discussion about project updates and next steps. (Error: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': ",
+  "action_items": [
+    "Review meeting transcript",
+    "Follow up on key discussion points",
+    "Schedule next meeting"
+  ],
+  "audio_path": "meetings\\audio\\1c473df3-35c6-4d97-b2fd-42a1660da8ce.webm"
+}
